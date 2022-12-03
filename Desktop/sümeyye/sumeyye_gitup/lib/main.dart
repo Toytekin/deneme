@@ -13,8 +13,16 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Material App Bar'),
         ),
-        body: const Center(
-          child: Text('Hello World'),
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: const [
+              Text('text'),
+              Card(
+                child: ListTile(),
+              )
+            ],
+          ),
         ),
       ),
     );
