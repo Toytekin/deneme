@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "137202996511",
+    "project_id": "pskiyatriveritabani",
+    "storage_bucket": "pskiyatriveritabani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137202996511:android:eae2aa13f874226cd34c2a",
+        "android_client_info": {
+          "package_name": "com.example.pskiyatrim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137202996511-rci362ste7e2vtoq6a6rs2tpe5m4hr15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pskiyatrim",
+            "certificate_hash": "78f018ab6d6013a4295a2d528d6fbea89400c89d"
+          }
+        },
+        {
+          "client_id": "137202996511-h3gob9iuufnjoo5voukv6gs673bl4cas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDIfociPUvkpfw6NwjIjcj_gJCyXJGfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137202996511-h3gob9iuufnjoo5voukv6gs673bl4cas.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137202996511-3v9fkpkpavh2er0a9qfmas1s3oql64e7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pskiyatrim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
