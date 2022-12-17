@@ -1,0 +1,458 @@
+[
+        {
+                "kelime":"Ülkücü Bıyığı ",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Heryerde gözlük kullanan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Utangaç",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Hırsız",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Torbacı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Satanist",
+                "tip":"Şeytani İnanç"
+        },
+        {
+                "kelime":"Eski Prens / Prenses",
+                "tip":"Allaha "
+        },
+        {
+                "kelime":"Zeki",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Unutkan",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Futbol",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"At",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Basketbol",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Eski Pazarcı",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Şaşı",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Renkli Gözlü",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Sakallı",
+                "tip":"Ö"
+        },
+        {
+                "kelime":"Panik Atak",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Peltek",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Bomba Çözebilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Korkak",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Beyzbol Sopası",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Satranç",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Küpeli",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Diş Teli",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Serseri",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Uyuşkan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Sulu Göz",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Deneyimsiz",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Nemli",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Talihsiz",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Testere",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Odun",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Tekne",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Balık",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Pazar Arabası",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Mikrofon",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Soğuk",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Vampir",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Bıçakm Taşıyan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Sigara İçen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Deri Ceket",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Kaçak",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Hapis Yatan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Irkçı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Laz",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Exel Bilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Başkan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Sekreter",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Pilav Günü",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Şiir Seven",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Sarhoş",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Müptela",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Fotoğraf Makinası",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Limonata",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Silah Kullanabilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Kahve Falı Bakabilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Aşık",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Romantik",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Alkolik",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Okey Oynayabilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Marka Takıntılı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Herkesi Kendi Gibi Sanan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Lanetli",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Sevimli",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Sevimsiz",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Güzel",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Çirkin ",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Huzurlu",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Aslında Ölmek İsteyen ",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Ağzı Bozuk",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Araba Kolleksiyonu",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Mücadeleci",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Hırslı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Yanlış Adres",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Unutkan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Sabıkalı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Vegan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Gönüllü",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Maddiyata Önem Vermeyen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Diyarbakırlı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Egeli",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Kürt",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Ünlü",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Fenomen Olmak İsteyen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Eş Cinsel",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Uyur Gezer",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Ölümsüz",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Bayram Namazı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Tavuk Kesemez",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Bir Fobiden Bahset",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Hasta",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Mübarek",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Amerikan",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Kumarbaz",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Pelerin",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Kurşun Geçirmez Yelek",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Pansuman",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Köle",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Uzaylı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Grup Terapisi",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Dünyanın Son Günü",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Serum Takabilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Makyaj Yapabilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Konseratuar",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Hayal Perest",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Ciddi",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Durduk Yere Gülebilen",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Yalancı",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"İki Yüzlü",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"İftira",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Obur",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Hapis",
+                "tip":"Özellik"
+        },
+        {
+                "kelime":"Bıçak",
+                "tip":"Özellik"
+        }
+
+]
+
+
+

@@ -1,0 +1,78 @@
+[
+        
+             
+                {
+                        "adi":"Hemşirelik",
+                        "hikaye":"Biz savaş alanında bize hizmet eden bir hemşire aramaktayız"
+                },
+                {
+                        "adi":"Palyaço",
+                        "hikaye":"Dünya liderlerinin toplandığı bir organizasyonda liderleri güldürerek ülkemizin isteklerini kabul ettirmeyi planlıyoruz."
+                }
+               , {
+                        "adi":"İmam",
+                        "hikaye":"Açılacak olan AVM nin orta göbeğinde bir mescit yapmayı planlıyoruz. "
+                }
+                ,
+                {
+                        "adi":"Sekreter",
+                        "hikaye":"Bizim Üsküdar sahilde bir Çiğ Köfte dükkanımız var. Bu dükkan için SEKRETER almamız gerekiyor. Günlük satılan porsiyon,dürüm ve ikramları , müşterilerden gelen istekleri not edecek bir sekreter aramaktayız. "
+                } , 
+                {
+                        "adi":"Zurnacı",
+                        "hikaye":"Eski Şirket sahibimiz sayın A.T ölümünden sonra her yılın ilk haftası mezarı başında Zurna ile Ayağında Kundura türküsünü çalmamızı vasiyet etti. Fakat bu işi Zincirli Kuyu mezarlığında yapacağınız için sizden bir takım beklentilerimiz olacak..."
+                } ,
+                {
+                        "adi":"Marangoz",
+                        "hikaye":"Müşterilerimize özel tabut yapılacak.Ses sistemi, iç ışıklandırması, ısınma sistemli  vb. istekleri olan müşterilerimiz var."
+                },
+                {
+                        "adi":"Taksici",
+                        "hikaye":"Sadece eşcinsellerin girebildiği K.T.X ilçesinde görev yapacak taksici arkadaşlar arıyoruz."
+                },
+                {
+                        "adi":"Çoban",
+                        "hikaye":"Müşterimizin 100 büyük baş, 30 küçükbaş ve 1 ördek olmak üzere toplam 131 hayvanı mevcut. Ve müşterimiz bir deney yapmakta. Bundan dolayı Ördek bizim için çok önemli. Hayvanları ördek dahil çayıra götürüp gelecek ve ördeğin his ve davaranışlarını gözlemleyecek bir çoban arıyoruz."
+                },
+                {
+                        "adi":"Baca temizleyicisi",
+                        "hikaye":"Hristiyanlardan oluşan bir sitemiz var. Taktir edersiniz ki bu arkadaşların bir takım talepleri oldu. Baca Temizliyici arkadaşarın Noel Baba gibi giyinmesini ve oymuş gibi sesler çıkarmasını istediler."
+                },
+                {
+                        "adi":"Kuş Kovucusu",  
+                        "hikaye":"Hava alanı pstinde olan kuşların kovulmasını istiyoruz. Plotlarımız Türk oldukları için kimi zaman şaka maksatlı Kuş Kovucularımızın üzerine uçak sürebiliyorlar. Son 7 Kuş Kovucumuz malesef yeterince hızlı koşamadıkları için vefaat etmiş bulunmaktalar." 
+                },
+                {
+                        "adi":"Çaycı",  
+                        "hikaye":"6 katı 30 ofisi bulunan şirektimize bir çaycı aramaktayız. Çaycımız çayın yanı sıra dünya kahvelerinede hakim olması gerekmektedir. Bizimle çalışacak arkadaşların tempolu bir yaşama ayak uydurmaları gerekmektedir. Not: Asansörlerimiz çalışmıyor " 
+                }
+                ,
+                {
+                        "adi":"Depo Görevlisi",  
+                        "hikaye":"İçerisinde ne olduğunu işe alınırsanız söyleyebileceğimiz depomuz var. İşi alacak arkadaşların iyi silah kullanabiliyor olması ve iyi insanları iyi taklit edebiliyor olması gerekmektedir. Ve aynı zamanda  kılık değiştirmesi gerekebilir."
+                },
+                {
+                        "adi":"Hırsız",
+                        "hikaye"  :"Türkiyenin her ilinden birşey çalarak rekor kırmamız gerekmektedir. Aramıza tecrübeli elemanlar almak isteriz. Siz hangi ilden ne çalardınız? Nasıl çalardınız?"
+
+                },
+                {
+                        "adi":"Kaptan",
+                        "hikaye":"Denizde yaşamayı hayat felsefesi haline getirmiş, 30 yaşından küçük olan,balık avlamada usta bir kaptan aramaktayız. "
+
+                },
+                {
+                        "adi":"Yolcu İtici",
+                        "hikaye":"Yoğun olan metro istasyonumuzda metroya binemeyen insanları arkadan iterek bindirilmesi gerekmektedir. Bunun için kendinden emin, nazik olmayan ve analatik düşünen personellere ihtiyaç duymaktayız."
+
+                },
+                {
+                        "adi":"Yas Tutuculuk",
+                        "hikaye":"Sosyetede yakınları ölen patronumuz kendileri için yas tutacak insanlar aramaktadır.İşi kabul edecek olan kişiler sabah 2 saat ağlamaları, öğlen 2 saat ağıt yakmaları ve öğleden sonrada inlemelilerdir."
+
+                }
+               
+                
+
+
+        ]
