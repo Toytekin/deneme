@@ -1,0 +1,45 @@
+{
+        // Use IntelliSense to learn about possible attributes.
+        // Hover to view descriptions of existing attributes.
+        // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+        "version": "0.2.0",
+        "configurations": [
+                {
+                        "name": "use_case_flutter-master",
+                        "request": "launch",
+                        "type": "dart"
+                },
+                {
+                        "name": "use_case_flutter-master (profile mode)",
+                        "request": "launch",
+                        "type": "dart",
+                        "flutterMode": "profile"
+                },
+                {
+                        "name": "use_case_flutter-master (release mode)",
+                        "request": "launch",
+                        "type": "dart",
+                        "flutterMode": "release"
+                },
+                {
+                        "name": "uikit",
+                        "cwd": "module/uikit",
+                        "request": "launch",
+                        "type": "dart"
+                },
+                {
+                        "name": "uikit (profile mode)",
+                        "cwd": "module/uikit",
+                        "request": "launch",
+                        "type": "dart",
+                        "flutterMode": "profile"
+                },
+                {
+                        "name": "uikit (release mode)",
+                        "cwd": "module/uikit",
+                        "request": "launch",
+                        "type": "dart",
+                        "flutterMode": "release"
+                }
+        ]
+}
