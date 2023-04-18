@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "595069671122",
+    "project_id": "sendedinle-3c8e9",
+    "storage_bucket": "sendedinle-3c8e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595069671122:android:f4b9a93b5094b316bc3f0b",
+        "android_client_info": {
+          "package_name": "com.example.sendedinle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595069671122-uu1p4v4am9ejbi1mrovah703va83f8r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sendedinle",
+            "certificate_hash": "78f018ab6d6013a4295a2d528d6fbea89400c89d"
+          }
+        },
+        {
+          "client_id": "595069671122-iooidlu8i85l92uvcv75k18aqmileohc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFt-CuBS57oOsTBdjCIq7PE0Th1xDAo_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595069671122-iooidlu8i85l92uvcv75k18aqmileohc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595069671122-8vaebcvrm1m6iv5pe69o4qrgdb1i2oeg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sendedinle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
