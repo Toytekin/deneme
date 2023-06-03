@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "6367ea0e394c7819b8d0ea28709b46f29980d1cfc37627962d6f837f2069efce"
+build_start_time: [1683303797, 609550000]
+build_end_time: [1683303804, 637425000]
+inputs:
+  "/Users/ibrahimtoytekin/Desktop/haritaapp/haritaapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1683303747, 119427389]
+  "/Users/ibrahimtoytekin/Desktop/haritaapp/haritaapp/macos/Runner/AppDelegate.swift": [1677125871, 0]
+  "/Users/ibrahimtoytekin/Desktop/haritaapp/haritaapp/macos/Runner/MainFlutterWindow.swift": [1677125871, 0]

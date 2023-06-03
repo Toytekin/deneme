@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "f0c4d7011ff3fdbcb88e640c4b3011ba53b8043c6b38391456b0a98af68afd07"
+build_start_time: [1683303780, 279334000]
+build_end_time: [1683303784, 976979000]
+inputs:
+  "/Users/ibrahimtoytekin/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.2/macos/Classes/PathProviderPlugin.swift": [1681417719, 823930353]
+  "/Users/ibrahimtoytekin/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.2/macos/Classes/messages.g.swift": [1681417719, 824176765]
